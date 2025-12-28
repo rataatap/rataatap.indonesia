@@ -1,19 +1,1 @@
-.social-clean {
-  display: flex;
-  justify-content: center;
-  gap: 32px;
-  margin-top: 40px;
-}
 
-.social-clean a {
-  font-size: 22px;
-  color: #ffffff;
-  opacity: 0.85;
-  transition: transform 0.3s ease, opacity 0.3s ease;
-}
-
-.social-clean a:hover {
-  transform: translateY(-4px);
-  opacity: 1;
-}
->
